@@ -2,7 +2,7 @@
   RewriteEngine On
  
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://vmi2300795.contaboserver.net/$1 [R=301,L]
+RewriteRule ^(.*)$ https://zynergy.roxeleye.com/$1 [R=301,L]
 
   RewriteBase /
   RewriteRule ^index\.html$ - [L]
